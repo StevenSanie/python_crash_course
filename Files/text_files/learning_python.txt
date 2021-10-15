@@ -1,0 +1,6 @@
+In python, you can create your own data types
+In python, you can loop through a string
+In python, you can read a file
+In python, you can create web application with Django
+In python, you can loop through dictionaries
+In python, you can create your ow classes and give it your own methods
